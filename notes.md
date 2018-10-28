@@ -15,6 +15,7 @@ So this is about transformation, and transformation means
 **Consultants**
 Now, if you're a DevOps consultancy and you're sponsoring this event, naturally this isn't about you, it's about the consultancies that do things like this
 # 4
+The struggle is real...
 Now, there are a couple of warning signs in this picture. The most obvious one is that the meeting starts at 12 o'clock. Some of you in the audience might be thinking that I made this up, that this never happened, but sometimes truth is stranger than fiction.
  # 5
  So here's the mandatory reference to Conway's law, and the reason it's here is to emphasise that DevOps is all about a revolutionary Enterprise wide culture shift
@@ -60,15 +61,30 @@ Now, there are a couple of warning signs in this picture. The most obvious one i
 
  # 15
 
- Is this harder? Well maybe we can start by stopping the blame game, by making it OK to slip up, by being better people. How much does that cost? Or what about making our services better instrumented, so we can figure out what we might want to change.
+ Is this harder? Well maybe we can start by stopping the blame game, by making it OK to slip up, by being better people. How much does that cost? Or what about making our services better instrumented, so we can figure out what we might want to change. Does that require an enterprise culture shift?
 
  # 16
 
- And where do these changes lead? Well, they lead to recognition in the workplace, and they lead to other individuals and teams wanting to copy what the successful individuals and teams are doing.
+ In my experience, even if the "higher ups" are too busy filling in their RACI diagrams to notice what you've been up to at 360-degree review time, the other teams around you _will_ notice. And after noticing, they will start to do some of the same things, to model their own behaviours on yours.
 
- #17
+ # 17
 
- Another way to think about this is that the evidence of success will allow us to build up this thing called "political capital", 
+ Another way to think about this is that the process of doing the right thing leads to tbe accrual of "political capital", which is a metaphor, really, that encapsulates these notions of reputation, trust, goodwill, influence, and all the other things that derive from good behaviour, and also that Political Capital is generally a good thing to have.
+
+ # 18
+
+ But why? Well, the reason we want to have any kind of capital is to spend it on doing the right thing. In the case of the political capital we generate by starting from where we sit, the right thing probably looks like influencing working practices ... or helping others ... or even transforming the working environment
+
+# 19
+
+to make things better for ourselves. Really, who cares about the Enterprise Culture shift if we can make our own working lives less awful by doing a few simple things
+
+# 20
+
+The world won't care about your old defeats
+If you can start anew and win success.
+The future is your time and time is fleet
+And there is much of work and strain and stress.
 
 
 
